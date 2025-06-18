@@ -1,0 +1,33 @@
+{
+  "stats": "7 passed, 0 failed out of 7",
+  "tests": [
+    {
+      "name": "PostList componentı import edilip kullanılmış mı?",
+      "state": "pass"
+    },
+    {
+      "name": "PostList componentına doğru data propsu iletilmiş mi?",
+      "state": "pass"
+    },
+    {
+      "name": "App, PostList'e clapAction props'unu aktarıyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "receives and uses props correctly from PostList",
+      "state": "pass"
+    },
+    {
+      "name": "displays all post data correctly",
+      "state": "pass"
+    },
+    {
+      "name": "calls onClap with correct post id when clap button is clicked",
+      "state": "pass"
+    },
+    {
+      "name": "renders comments using map with correct keys and props",
+      "state": "pass"
+    }
+  ]
+}
